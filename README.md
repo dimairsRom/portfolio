@@ -20,7 +20,7 @@ SoapUI, Chrome DevTools, Git***
 Ссылка на проект  
 
 
-![image](https://github.com/dimairsRom/portfolio/assets/142714602/39e04109-eeda-402a-8635-6b012990418f)
+
 
 
 Как выложить проекты?
