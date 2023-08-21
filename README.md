@@ -32,11 +32,12 @@ SoapUI, Chrome DevTools, Git***
 Ссылки на проект  
 1. https://qa4301.atlassian.net/l/cp/rsYjv8jK  
 2. https://qa4301.atlassian.net/l/cp/mvaMPtZa    
-3. https://github.com/dimairsRom/portfolio/files/12393311/-export.1.xls  
+   https://github.com/dimairsRom/portfolio/files/12393311/-export.1.xls  
    https://github.com/dimairsRom/portfolio/files/12393336/-export.xls  
    https://github.com/dimairsRom/portfolio/files/12393349/-export.xls  
-   https://github.com/dimairsRom/portfolio/files/12393360/-export.xls      
-4. https://qa4301atlassian.net/l/cp/fMS1NQEu  
+   https://github.com/dimairsRom/portfolio/files/12393360/-export.xls  
+3 и 4.  
+
 
 
 
