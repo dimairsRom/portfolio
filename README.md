@@ -24,10 +24,10 @@ SoapUI, Chrome DevTools, Git***
 Проект 1: тест веб-приложения для учителей от Skyeng  
 Что нужно было сделать:  
 
-*1️⃣ сделать тест-план,*  
-*2️⃣ подготовить тестовую документацию,*  
-*3️⃣ провести тестирование,* 
-*4️⃣ написать отчет о результатах тестирования.*  
+*1️⃣ сделать тест-план,*    
+*2️⃣ подготовить тестовую документацию,*    
+*3️⃣ провести тестирование,*   
+*4️⃣ написать отчет о результатах тестирования.*    
 
 Ссылки на проект  
 1. https://qa4301.atlassian.net/l/cp/rsYjv8jK  
@@ -35,8 +35,8 @@ SoapUI, Chrome DevTools, Git***
 3. https://github.com/dimairsRom/portfolio/files/12393311/-export.1.xls  
    https://github.com/dimairsRom/portfolio/files/12393336/-export.xls  
    https://github.com/dimairsRom/portfolio/files/12393349/-export.xls  
-   https://github.com/dimairsRom/portfolio/files/12393360/-export.xls    
-4.https://qa4301atlassian.net/l/cp/fMS1NQEu  
+   https://github.com/dimairsRom/portfolio/files/12393360/-export.xls      
+4. https://qa4301atlassian.net/l/cp/fMS1NQEu  
 
 
 
