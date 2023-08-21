@@ -36,7 +36,7 @@ SoapUI, Chrome DevTools, Git***
    https://github.com/dimairsRom/portfolio/files/12393336/-export.xls  
    https://github.com/dimairsRom/portfolio/files/12393349/-export.xls  
    https://github.com/dimairsRom/portfolio/files/12393360/-export.xls  
-3 и 4.  
+3 и 4. https://qa4301.atlassian.net/l/cp/7qnfAbWY
 
 
 
