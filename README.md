@@ -9,11 +9,13 @@
 ## **Навыки и технологии**
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>  
+</div>      
 
+  
 ***Jira, qase.io, Postman, postgreSQL, Confluens, Swagger, Trello  
 SoapUI, Chrome DevTools, Git***  
 
+  
 <div align="center">
   <img src="https://media0.giphy.com/media/1Zm5HClwBECaDLA5ua/giphy.gif?cid=ecf05e47psiki06em9nwe6vrii62k2phc0v80e1yei6asq58&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
@@ -28,19 +30,13 @@ SoapUI, Chrome DevTools, Git***
 *4️⃣ написать отчет о результатах тестирования.*  
 
 Ссылки на проект  
-1. https://qa4301.atlassian.net/l/cp/rsYjv8jK
-2. https://qa4301.atlassian.net/l/cp/mvaMPtZa  
-3. https://github.com/dimairsRom/portfolio/files/12393311/-export.1.xls
-   https://github.com/dimairsRom/portfolio/files/12393336/-export.xls
-   https://github.com/dimairsRom/portfolio/files/12393349/-export.xls
-   https://github.com/dimairsRom/portfolio/files/12393360/-export.xls
-
-
-   
-
-
-
-4.https://qa4301atlassian.net/l/cp/fMS1NQEu
+1. https://qa4301.atlassian.net/l/cp/rsYjv8jK  
+2. https://qa4301.atlassian.net/l/cp/mvaMPtZa    
+3. https://github.com/dimairsRom/portfolio/files/12393311/-export.1.xls  
+   https://github.com/dimairsRom/portfolio/files/12393336/-export.xls  
+   https://github.com/dimairsRom/portfolio/files/12393349/-export.xls  
+   https://github.com/dimairsRom/portfolio/files/12393360/-export.xls    
+4.https://qa4301atlassian.net/l/cp/fMS1NQEu  
 
 
 
