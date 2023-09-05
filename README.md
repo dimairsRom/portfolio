@@ -53,7 +53,7 @@ SoapUI, Chrome DevTools, Git***
 Принято решение о готовности **нового функционала - "личные события"**.  
 
 **Ссылки на проект:**   
- https://drive.google.com/drive/folders/1XQg8zjToQUqVG32TOJAW71-vlgEPvTN6?usp=sharing
+ https://drive.google.com/drive/folders/1XQg8zjToQUqVG32TOJAW71-vlgEPvTN6?usp=sharing  
 1. https://qa4301.atlassian.net/l/cp/rsYjv8jK 
 2. https://qa4301.atlassian.net/l/cp/mvaMPtZa    
    https://github.com/dimairsRom/portfolio/files/12393311/-export.1.xls  
