@@ -73,11 +73,8 @@ SoapUI, Chrome DevTools, Git***
 *3️⃣ Дополнить отчет о тестировании*  
   
 **Ссылка на проект:**  
-https://qa4301.atlassian.net/l/cp/X21s2UpW  
-логин: 
-dzmitry198108@gmail.com  
-пароль: 
-vera2023DAS  
+Курсовая 2.postman_collection.json…
+
 
 ## *Контактная информация*  
 Email: dimir_g@mail.ru
