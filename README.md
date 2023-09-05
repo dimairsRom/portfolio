@@ -71,7 +71,11 @@ SoapUI, Chrome DevTools, Git***
  *1️⃣ Изучить  документацию API*  
  *2️⃣ Создать Postman-коллекцию*  
 *3️⃣ Дополнить отчет о тестировании*  
-  
+
+  **Выводы:**  
+При работе над этим проектом приобретались навыки по тестированию через API, составлению запросов в Postman, созданию  
+Postman-коллекций и их экспорта, импорта. Проведению тест-ранов коллекций.    
+
 **Ссылка на Postman коллекцию к проекту:**  
 https://drive.google.com/file/d/1bz-TD1eX0Unv7SsJ2TRQ-vLvO-S9g5IO/view?usp=drive_link
 https://drive.google.com/file/d/1O24j2eA70MOqGNS5bNTHngIVzLnwosr_/view?usp=drive_link
