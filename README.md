@@ -54,13 +54,12 @@ SoapUI, Chrome DevTools, Git***
 
 **Ссылки на проект:**   
  https://drive.google.com/drive/folders/1XQg8zjToQUqVG32TOJAW71-vlgEPvTN6?usp=sharing  
-1. https://qa4301.atlassian.net/l/cp/rsYjv8jK 
-2. https://qa4301.atlassian.net/l/cp/mvaMPtZa    
+ https://drive.google.com/drive/folders/16aTqGVxwj3hFR1mFoQ8_jBYbWWYYBV7-?usp=sharing
+ https://drive.google.com/drive/folders/1EDFmX3719qX04I3UfwxekMgzhmgBzgjM?usp=sharing
    https://github.com/dimairsRom/portfolio/files/12393311/-export.1.xls  
    https://github.com/dimairsRom/portfolio/files/12393336/-export.xls  
    https://github.com/dimairsRom/portfolio/files/12393349/-export.xls  
    https://github.com/dimairsRom/portfolio/files/12393360/-export.xls  
-3 и 4. https://qa4301.atlassian.net/l/cp/7qnfAbWY
 
 Проект 2: **тест кабинета учителя в приложении Skyeng через API** 
 
