@@ -74,6 +74,7 @@ SoapUI, Chrome DevTools, Git***
   
 **Ссылка на проект:**  
 Курсовая 2.postman_collection.json…
+[Uploading Курсовая 2.postman_test_run.json…]()
 
 
 ## *Контактная информация*  
